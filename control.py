@@ -58,10 +58,14 @@ def on_new_data_str(data_str: str):
 #Task 3 : Data storage and analysis
 '''
 Store the incoming data  in a CSV file?
+'''
+
+# Task 4 : Data visualisation
+'''
 Output formatted data from the CSV file, e.g. temperature over time.
-Tables
-Averages
-Graphs
+ Tables
+ Averages
+ Graphs
 '''
 
 
